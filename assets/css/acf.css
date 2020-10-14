@@ -1,0 +1,52 @@
+/* Padding */
+
+/* Top */
+.pt-25 {
+    padding-top: 25px !important;
+}
+.pt-50 {
+    padding-top: 50px !important;
+}
+.pt-100 {
+    padding-top: 100px !important;
+}
+/* Bottom */
+.pb-25 {
+    padding-bottom: 25px !important;
+}
+.pb-50 {
+    padding-bottom: 50px !important;
+}
+.pb-100 {
+    padding-bottom: 100px !important;
+}
+
+
+/* Publish / Update Button */
+@media screen and (min-width: 991px) {
+    #post-body.columns-2 #postbox-container-1 {
+        position: fixed;
+        right: 20px;
+        margin-right: 0;
+        float: none;
+    }
+}
+
+
+/* Navigation */
+.nav .acf-row {
+    display: inline-table;
+    width: 100%;
+    border-top: 10px solid #116293;
+}
+.nav .acf-row .acf-row {
+    border-color: #1489cf;
+}
+
+
+/* Cards */
+.cards .acf-row {
+    display: inline-table;
+    width: 100%;
+    border-top: 10px solid #116293;
+}

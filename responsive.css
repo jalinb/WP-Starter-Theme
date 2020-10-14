@@ -1,0 +1,229 @@
+/* ------------------------------ 
+	1600px CUSTOM SIZE
+------------------------------ */
+@media screen and (max-width: 1599px) {
+
+}
+
+
+
+
+/* ------------------------------ 
+	1199px LARGE
+------------------------------ */
+@media screen and (max-width: 1199px) {
+	/* Gravity Forms */
+	.gform_wrapper .ginput_complex .address_city, .gform_wrapper .ginput_complex .address_state {
+		margin-right: 14px !important;
+	}
+	/* Nav*/
+	.main-menu-item a, .desktop-navigation .main-menu-item span {
+		padding: 0 7px;
+	}
+
+}
+
+
+
+
+/* ------------------------------ 
+	991px MEDIUM
+------------------------------ */
+@media screen and (max-width: 991px) {
+	body {
+		font-size: 14px;
+	}
+	h1 {
+		font-size: 2.25em;
+	}
+	h2 {
+		font-size: 1.75em;
+	}
+	h2 {
+		font-size: 1.5em;
+	}
+
+	/* Home Hero */
+	.home-hero-caption {
+		padding-top: 15em;
+	}
+
+	/* Logo */
+	.logo-wrap {
+		width: 100%;
+	}
+
+	/* Nav */
+	.main-menu-item a, .desktop-navigation .main-menu-item span {
+		padding: 0 15px;
+	}
+	.nav-wrap {
+		margin-right: 10px;
+	}
+	.desktop-navigation .btn {
+		font-size: .75em;
+		min-width: 100px;
+	}
+
+	/* Service Types */
+	.service-border {
+		border: 0 !important;
+	}
+
+	/* Flickity */
+	.partner-slide {
+		padding: 10px 20px;
+	}
+
+	/* Footer */
+	footer .btn {
+		font-size: 1em;
+	}
+}
+
+
+
+
+/* ------------------------------ 
+	768px - SMALL
+------------------------------ */
+@media screen and (max-width: 767px) {
+	/* Header */
+	.brand-logo {
+		max-width: 120px;
+    	margin-top: 10px;
+	}
+	.header-padding-md {
+		padding-top: 150px;
+	}
+
+	/* Home Hero */
+	.home-hero-caption {
+		padding-top: 15em;
+		padding-bottom: 10em;
+	}
+
+	/* Interior Hero */
+	.bg-overlay-right {
+		-webkit-clip-path: none;
+		clip-path: none;
+		width: 100% !important;
+	}
+	.hero-type-image .interior-hero-padding {
+		padding-top: 2em;
+    	padding-bottom: 2em;
+	}
+
+	/* General*/
+	.container-half {
+		max-width: 100%;
+	}
+	.image-wide-overlay-right {
+		-webkit-clip-path: none;
+		clip-path: none;
+		width: 100% !important;
+	}
+	.overlay-content:before {
+		display: none !important;
+	}
+	
+	/* Flickity */
+	.partner-slide {
+		padding: 10px;
+	}
+
+	/* Footer */
+	.footer-logo-wrap {
+		max-width: 160px;
+		padding: 20px;
+	}
+}
+
+
+
+
+/* ------------------------------ 
+	640px - CUSTOM SIZE
+------------------------------ */
+@media screen and (max-width: 639px) {
+	/* Flickity Slider */
+	.flickity-prev-next-button.next {
+		right: -25px;
+	}
+	.flickity-prev-next-button.previous {
+		left: -25px;
+	}
+
+	/* Gravity Forms */
+	.gform_wrapper .ginput_complex .address_city, .gform_wrapper .ginput_complex .address_state, .gform_wrapper .ginput_complex .address_zip {
+		width: 100% !important;
+		margin-right: 0 !important;
+	}
+	.gform_wrapper .ginput_complex .name_last {
+		margin-top: 30px !important;
+	}
+}
+
+
+
+
+/* ------------------------------ 
+	576px - EXTRA SMALL
+------------------------------ */
+@media screen and (max-width: 575px) {
+	/* Header */
+	.header-padding-md {
+		padding-top: 120px;
+	}
+	/* Community Logo */
+	.community-logo {
+		max-width: 120px;
+	}
+	/* Community Footer Logo */
+	.footer-logo-wrap {
+		max-width: 160px;
+	}
+	/* Top Bar */
+	.header-padding-sm {
+		padding-top: 75px;
+	}
+	/* Slider */
+	.carousel-indicators {
+		bottom: -30px;
+	}
+}
+
+
+
+
+/* ------------------------------ 
+	480px - CUSTOM SIZE
+------------------------------ */
+@media screen and (max-width: 479px) {
+	/* Footer Nav */
+	.footer-nav-c1, .footer-nav-c2, .footer-nav-c3 {
+		width: 100%;
+	}
+	footer .nav-group-wrap {
+		margin: 0 auto 1em !important;
+	}
+
+	/* Copyright */
+	.copyright p:first-of-type {
+		width: 100%;
+		text-align: center;
+	}
+	.copyright .border-right:first-of-type {
+		display: none;
+	}
+}
+
+
+
+
+/* ------------------------------ 
+	380px - CUSTOM SIZE
+------------------------------ */
+@media screen and (max-width: 379px) {
+
+}
